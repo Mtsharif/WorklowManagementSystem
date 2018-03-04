@@ -7,12 +7,22 @@ This application is created for the MIS capstone project; it is a workflow manag
 Features 
 
 Create projects
+
 Assign tasks 
+
 Assign ushers to projects 
+
 Upload deliverables 
+
 Create cost sheets
+
 Create cost variances 
+
 Give approvals 
+
 View status of projects 
+
 Generate project reports
+
 Generate client satisfaction reports 
+
